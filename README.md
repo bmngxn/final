@@ -35,7 +35,7 @@ Thêm MSYS2 vào PATH
 
 ```bash
 # Chuyển đến thư mục chứa mã nguồn (nơi bạn đã giải nén hoặc clone project)
-cd duong_dan_den_folder
+cd project_directory
 
 # Xóa các file biên dịch cũ nếu có (tránh lỗi khi build lại)
 make clean
