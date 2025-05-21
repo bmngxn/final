@@ -72,10 +72,6 @@ make
 
 ---
 
-# Một số hình ảnh của game
-
-# Tài liệu tham khảo
-
 
 
 
