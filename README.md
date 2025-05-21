@@ -9,7 +9,6 @@
 
 Phiên bản này được lập trình bằng **C++** sử dụng thư viện **SDL2**
 
-Video demo: [Tetris C++ with SDL2](https://youtu.be/kcqnd57YXS4)
 # ⚙️ Hướng dẫn cài đặt
 
 ## 🔧 Yêu cầu
@@ -35,7 +34,17 @@ Thêm MSYS2 vào PATH
 #### 3️⃣ Build game
 
 ```bash
-mingw32-make
+# Chuyển đến thư mục chứa mã nguồn (nơi bạn đã giải nén hoặc clone project)
+cd duong_dan_den_folder
+
+# Xóa các file biên dịch cũ nếu có (tránh lỗi khi build lại)
+make clean
+
+# Tiến hành biên dịch game
+make
+
+# Chạy game sau khi build thành công
+./game.exe
 ```
 
 
@@ -66,9 +75,7 @@ mingw32-make
 # Một số hình ảnh của game
 
 # Tài liệu tham khảo
-- Tham khảo code mẫu tại [Lazy Foo' Productions](https://lazyfoo.net/tutorials/SDL/index.php)
 
-- Toàn bộ hình ảnh, âm thanh được lấy từ [Tetris](https://tetris.com/play-tetris)
 
 
 
