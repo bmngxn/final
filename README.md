@@ -1,8 +1,5 @@
-# 9 Ball Pool: Bài tập lớn Lập trình nâng cao
-# Tác giả
-- Họ và tên: Nguyễn Bảo Minh
-- Lớp: K69I-CS5
-- Mã sinh viên: 24021569
+# 9 Ball Pool
+
 # 🎱 Giới thiệu
 
 **9 Ball Pool** là trò chơi bi-a mô phỏng, nơi người chơi điều khiển bi cái để đánh vào các bi mục tiêu. Trò chơi kết thúc khi cả 9 bi mục tiêu được đưa vào lỗ hợp lệ.
